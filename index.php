@@ -373,14 +373,8 @@ session_start(); //start temp session until logout/browser closed
                         <ul>
                             <li><a href="#">Batticaloa</a> </li>
                             <li><a href="#">Eravur</a> </li>
-                            <li><a href="#">Tiruchy</a> </li>
-                            <li><a href="#">Salem</a> </li>
-                            <li><a href="#">Madurai</a> </li>
-                            <li><a href="#">Theni</a> </li>
-                            <li><a href="#">Thiruvallur</a> </li>
-                            <li><a href="#">Pondicherry</a> </li>
-                            <li><a href="#">Thoothukudi</a> </li>
-                            <li><a href="#">Kanyakumari</a> </li>
+                            <li><a href="#">Chenkalady</a> </li>
+                           
                         </ul>
                     </div>
                 </div>
