@@ -371,8 +371,8 @@ session_start(); //start temp session until logout/browser closed
                     <div class="col-xs-12 col-sm-3 popular-locations color-gray">
                         <h5>Locations We Deliver To</h5>
                         <ul>
-                            <li><a href="#">Chennai</a> </li>
-                            <li><a href="#">Kanchipuram</a> </li>
+                            <li><a href="#">Batticaloa</a> </li>
+                            <li><a href="#">Eravur</a> </li>
                             <li><a href="#">Tiruchy</a> </li>
                             <li><a href="#">Salem</a> </li>
                             <li><a href="#">Madurai</a> </li>
